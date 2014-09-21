@@ -1,0 +1,7 @@
+Hello!
+
+This is where you will add your name and GitHub account name to confirm that you have set up Git on your computer appropriately.
+
+Name - GitHub Account Name:
+===========================
+Raj Vinjamuri - rajvinjamuri

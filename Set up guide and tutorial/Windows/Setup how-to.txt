@@ -1,0 +1,22 @@
+0. Create an account on GitHub.com
+1. Install git for windows.
+--Change default selection of windows explorer integration (we don't need this)
+2. Install TortoiseGIT
+3. Create SSH key (authentication of your computer to the repos)
+--Start > PuTTy > Generate Private SSH key
+--Generate a key
+--Move the mouse around to generate some entropy
+--Save the private and public keys in a secure location on your computer.
+--Copy the public key from the box to the clipboard
+--Open your settings in GitHub
+--Add a new key. Give it a name you want, paste the key in, and save it.
+4. TortoiseGIT > Settings > Git > Credentials > Enable wincred - this account (this will make it so you only put in your credentials once)
+--if you have 2FA enabled, then you can create a token in GitHub and use that as a one-time password.
+5. Go to the repo you want to clone on GitHub. Find the url at the bottom right (ends in .git) and copy that.
+--Right click in windows explorer and clone a repo. Paste the one you are using. Make sure the ssh key is loaded.
+--Confirm the files came in.
+6. Make changes. Commit. Push. Put in your username and password once, and next time it shouldn't need it again.
+
+
+This guide is not perfect, as it was composed entirely from memory. For troubleshooting, hit up stackoverflow search results 
+via google, then check in with me (vinjamu2@illinois.edu).
