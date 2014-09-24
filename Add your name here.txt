@@ -6,4 +6,8 @@ Name - GitHub Account Name:
 ===========================
 Raj Vinjamuri - rajvinjamuri
 Nathan Havens - NathanHavens
+<<<<<<< HEAD
 Joe Lasser - joey1405
+=======
+Arkojit Ghosh - DrOctagonopus
+>>>>>>> 5fcaf25c85647b04320adfbb8be0ee843cc3cccc
